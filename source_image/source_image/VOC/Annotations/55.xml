@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>55.jpg</filename>
+	<path>D:\PycharmProjects\yolov5-5.0-cpoy\source_image\source_image\VOC\Images\55.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>8</ymin>
+			<xmax>675</xmax>
+			<ymax>627</ymax>
+		</bndbox>
+	</object>
+</annotation>

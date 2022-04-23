@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>15.jpg</filename>
+	<path>D:\PycharmProjects\yolov5-5.0-cpoy\source_image\source_image\VOC\Images\15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>551</xmin>
+			<ymin>28</ymin>
+			<xmax>1582</xmax>
+			<ymax>1283</ymax>
+		</bndbox>
+	</object>
+</annotation>
